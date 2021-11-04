@@ -1,4 +1,4 @@
-### Profile
+## Profile
 
 My name is Riley, and I'm a video game developer, currently studying at Staffordshire University.
 
@@ -9,5 +9,5 @@ Programming Experience:
 - HTML
 - C++
 
-# Twitter: https://twitter.com/RileyLoades
-# inkedIn: https://www.linkedin.com/in/rileyloades/
+##### Twitter: https://twitter.com/RileyLoades
+##### inkedIn: https://www.linkedin.com/in/rileyloades/
