@@ -1,16 +1,13 @@
-### Hi there 👋
+### Profile
 
-<!--
-**GitHubRiley/GitHubRiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Riley, and I'm a video game developer, currently studying at Staffordshire University.
 
-Here are some ideas to get you started:
+I am in my first year of my Computer Games Development degree and still have a lot to learn regarding programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Experience:
+- Python
+- HTML
+- C++
+
+Twitter: https://twitter.com/RileyLoades
+LinkedIn: https://www.linkedin.com/in/rileyloades/
