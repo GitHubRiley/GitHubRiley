@@ -9,5 +9,5 @@ Programming Experience:
 - HTML
 - C++
 
-Twitter: https://twitter.com/RileyLoades
-LinkedIn: https://www.linkedin.com/in/rileyloades/
+# Twitter: https://twitter.com/RileyLoades
+# inkedIn: https://www.linkedin.com/in/rileyloades/
