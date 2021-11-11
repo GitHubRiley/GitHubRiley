@@ -10,5 +10,4 @@ I am in my first year of my Computer Games Development degree and still have a l
 
 ##### Twitter: https://twitter.com/RileyLoades
 ##### LinkedIn: https://www.linkedin.com/in/rileyloades/
-##### Website: (insert link)
-##### GitHub Page: https://githubriley.github.io/
+##### Website/GitHub Page: https://githubriley.github.io/
